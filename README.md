@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MA-PuppetMaster
+- 👋 Hi, I’m Mohammad
 - 👀 I’m interested in Game Develpment and AI
 - 🌱 I’m currently learning OpenCV - python - unityProgramming 
 - 💞️ I’m looking to collaborate on game developemnt with unity
